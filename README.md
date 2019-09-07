@@ -6,7 +6,7 @@ A java application for document management **made using Java Swing in eclipse** 
 3.	Profile creation
 4.	Interactive UI
 5.	View submitted documents
-6.	Calculating h-index,impact factor
+6.	Storing/Displaying h-index,impact factor
 
 
 # Here are some screenshots
